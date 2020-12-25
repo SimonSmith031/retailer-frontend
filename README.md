@@ -1,4 +1,4 @@
-# vuex-start01
+# retailer-frontend
 
 ## Project setup
 ```
